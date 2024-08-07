@@ -1,0 +1,11 @@
+C:\Users\prabh\source\repos\CESAM HMI\bin\Debug\CESAM HMI.exe.config
+C:\Users\prabh\source\repos\CESAM HMI\bin\Debug\CESAM HMI.exe
+C:\Users\prabh\source\repos\CESAM HMI\obj\Debug\CESAM_HMI.Form1.resources
+C:\Users\prabh\source\repos\CESAM HMI\obj\Debug\CESAM_HMI.Properties.Resources.resources
+C:\Users\prabh\source\repos\CESAM HMI\obj\Debug\CESAM HMI.csproj.GenerateResource.cache
+C:\Users\prabh\source\repos\CESAM HMI\obj\Debug\CESAM HMI.csproj.CoreCompileInputs.cache
+C:\Users\prabh\source\repos\CESAM HMI\obj\Debug\CESAM HMI.exe
+C:\Users\prabh\source\repos\CESAM HMI\obj\Debug\CESAM HMI.pdb
+C:\Users\prabh\source\repos\CESAM HMI\bin\Debug\CESAM HMI.pdb
+C:\Users\prabh\source\repos\CESAM HMI\obj\Debug\CESAM HMI.csproj.AssemblyReference.cache
+C:\Users\prabh\source\repos\CESAM HMI\obj\Debug\CESAM_HMI.SplashScreen.resources
